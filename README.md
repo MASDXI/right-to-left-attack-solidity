@@ -1,4 +1,4 @@
-# Malicious code exploit contract
+# Right to left override contract
 
 Explain [New Language, Same old mistake](https://pnd256.medium.com/)  
 Tutorial using Hardhat(Buidler) to complie, deploy and automated unit tests Solidity smart contract.  
