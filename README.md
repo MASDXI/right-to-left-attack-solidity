@@ -1,6 +1,6 @@
 # Right to left override contract
 
-Explain [New Language, Same old mistake](https://pnd256.medium.com/)  
+Explain [New Language, Same old mistake](https://coinsbench.com/the-new-language-but-the-old-mistake-33831bfce25e)  
 Tutorial using Hardhat(Buidler) to complie, deploy and automated unit tests Solidity smart contract.  
 you can use this project for learning
 To run these tutorials, you must have the following installed:
